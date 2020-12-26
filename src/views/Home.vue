@@ -11,12 +11,7 @@
 </template>
 
 <script>
-import VueBlurHash from "vue-blurhash";
-
 export default {
-  name: "Home",
-  components: {
-    VueBlurHash
-  }
+  name: "Home"
 };
 </script>
