@@ -27,6 +27,6 @@ export default {
 <style scoped>
 .gallery-image {
   width: 400px;
-  height: 300px
+  height: 300px;
 }
 </style>
